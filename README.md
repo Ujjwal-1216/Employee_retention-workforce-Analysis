@@ -57,3 +57,38 @@ The objective of this project is to:
 - Compared early-exit volume across job functions
 - Combined risk and impact using an Impact vs Risk analysis
 - Identified job functions requiring targeted HR attention
+- ## Key Findings
+
+- The dataset contains **3,000 unique employee records** after duplicate removal.
+- There are **1,533 recorded exits**, giving a **51.10% recorded exit rate**.
+- Employees with recorded exits had substantially lower average tenure than active employees (**1.41 years vs 3.85 years**).
+- **47.23% of recorded exits occurred within the first year** of employment.
+- Among first-year exits, **59.11% occurred within the first six months**.
+- **37.29% of first-year exits occurred within the first three months**.
+- Production accounted for **68.15% of exits occurring within the first three months**.
+- Laborer roles represented a major share of early exits by volume, while some smaller job functions showed higher early-exit rates.
+- The Impact vs Risk analysis helped distinguish job functions with high exit risk from those with high exit volume.
+- Training outcomes did not show a consistent enough relationship with early exits to be treated as a primary driver.
+- ## HR Recommendations
+
+Based on the analysis, the following actions could help improve early employee retention:
+
+1. **Strengthen the first 90 days**
+   - Introduce structured onboarding and regular 30/60/90-day check-ins.
+   - Identify early warning signs before employees leave.
+
+2. **Focus on high-volume roles**
+   - Prioritize roles such as Laborer where the number of early exits creates a significant workforce impact.
+
+3. **Investigate high-risk roles**
+   - Review job functions with elevated early-exit rates, particularly where both risk and exit volume are meaningful.
+
+4. **Improve role-specific retention**
+   - Conduct stay interviews and exit-interview analysis for high-priority roles.
+   - Investigate workload, supervision, job expectations, compensation, and career-growth factors.
+
+5. **Monitor new-hire cohorts**
+   - Track early exits by hiring year and role to identify changes in retention patterns.
+
+6. **Use HR dashboards for ongoing monitoring**
+   - Monitor early-exit rate, exit volume, tenure, and department/job-function trends regularly rather than relying only on annual analysis.
