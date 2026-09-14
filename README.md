@@ -92,3 +92,49 @@ Based on the analysis, the following actions could help improve early employee r
 
 6. **Use HR dashboards for ongoing monitoring**
    - Monitor early-exit rate, exit volume, tenure, and department/job-function trends regularly rather than relying only on annual analysis.
+  
+## Power BI Dashboard
+
+The project includes an interactive Power BI dashboard with three pages:
+
+### Overview
+Provides a high-level view of:
+- Total employees
+- Recorded exits
+- Recorded exit rate
+- Average tenure
+- Hiring trends
+- Employee tenure distribution
+- Department-level exit rate and exit volume
+
+### Early Retention
+Focuses on:
+- Early exits
+- Early exit rate
+- Early-exit timing
+- Early exits by department
+- Top job functions by early-exit volume
+
+### HR Action View
+Focuses on:
+- Early-exit rate by job function
+- Early-exit volume by job function
+- Impact vs Risk analysis
+- Department and job-function filtering
+
+## Project Files
+
+- `SQL/` — SQL analysis and queries
+- `PowerBI/` — Power BI dashboard
+- `Data/` — Project dataset
+## Project Outcome
+
+This project demonstrates how HR data can be transformed into actionable workforce insights using SQL and Power BI.
+
+The analysis identified a strong concentration of employee exits during the early stages of employment, with the first six months representing a particularly important retention period.
+
+The final dashboard helps HR teams move from simply measuring exits to identifying **where the retention problem is greatest and which employee groups should receive priority attention**.
+
+### Key HR Focus
+
+**Early onboarding → First 90 days → High-impact roles → Targeted retention actions**
